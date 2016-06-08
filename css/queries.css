@@ -6,11 +6,18 @@
     aside.w-contacts {
         display: none;
     }
+    article {
+        width: 100%;
+        padding:0px;
+        position:relative;
+        top: -20px;
+     
+    }
 }
 
 @media(min-width:1300px) {
     .container {
-        width: 1321px;
+        width: 85%;
         padding:0px;
     }
 }

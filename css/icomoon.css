@@ -46,4 +46,6 @@
 .icon-search:before {
 	content: "\e906"
 }
-
+.icon-ellipsis-v:before{
+    content: "\f142";
+}
